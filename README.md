@@ -12,14 +12,17 @@ This project is being actively developed to explore real-world healthcare workfl
 ✅ Active Development
 
 Current Version Features:
-- Patient Management
-- Doctor Management
-- Appointment Booking
-- Live Queue Tracking
-- Multi-Clinic Support
-- Notification System
+Current Version Features:
+- Patient Registration & Login
+- Doctor Registration & Login
+- Doctor Self Registration Portal
+- Appointment Booking System
+- Live Queue Tracker
+- Family Health Dashboard
 - Prescription Management
+- Notification & Reminder System
 - AI Symptom Checker
+- Multi-Clinic Support
 ---
 
 ## Features Implemented
@@ -35,6 +38,8 @@ Current Version Features:
 - Doctor Login
 - Doctor Dashboard
 - Live Queue Management
+- Doctor Self Registration Portal
+- Clinic Settings Management
 
 ### Appointment System
 - Appointment Booking
@@ -85,6 +90,19 @@ Current Version Features:
 - Datetime
 - Re
 - Standard Python Libraries
+
+---
+
+## Key Highlights
+
+- Multi-Clinic Architecture
+- Live Queue Tracking
+- Appointment Reminder System
+- Prescription Management
+- Family Health Dashboard
+- AI Symptom Analysis
+- Doctor Self Registration
+- Clinic-Based Data Isolation
 
 ---
 
