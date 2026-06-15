@@ -4,7 +4,7 @@
 
 Smart Clinic Assistant is a healthcare management system built using Python, Streamlit, and SQLite. The project helps manage patients, doctors, appointments, clinic operations, notifications, prescriptions, and basic AI-powered symptom analysis.
 
-This project is being actively developed to explore real-world healthcare workflow management, clinic operations, appointment systems, and healthcare technology solutions. It serves as both a portfolio project and a foundation for future production-ready healthcare applications.
+This project is being actively developed to explore real-world healthcare workflow management, clinic operations, appointment systems, and healthcare technology solutions. Smart Clinic Assistant is designed as a scalable healthcare management platform and serves as a foundation for future production-ready healthcare applications and clinic management solutions.
 ## Live Demo
 
 Deployed Application:
