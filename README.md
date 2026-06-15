@@ -271,10 +271,11 @@ Community feedback and contributions are appreciated as the platform continues t
 
 ## License
 
-This project is released under the MIT License.
+## License
 
-The software may be used, modified, and distributed according to the terms of the license.
+All rights reserved.
 
+This project is currently under active development.
 ---
 
 ## Author
