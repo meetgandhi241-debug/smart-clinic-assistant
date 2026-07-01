@@ -108,9 +108,13 @@ smart-clinic-assistant/
 ---
 ## 🚀 Installation
 
+## 🚀 Installation
+
 Clone the repository
 
-```
+```bash
+git clone https://github.com/meetgandhi241-debug/smart-clinic-assistant.git
+cd smart-clinic-assistant
 ```
 
 Create virtual environment
@@ -118,7 +122,6 @@ Create virtual environment
 ```bash
 python -m venv venv
 ```
-
 Activate
 
 Windows
