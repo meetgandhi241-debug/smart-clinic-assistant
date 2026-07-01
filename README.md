@@ -103,7 +103,7 @@ smart-clinic-assistant/
 ---
 
 ## 🌐 Live Demo
-
+https://smart-clinic-assistant-c6jqtwfgwusttwtjzibwhn.streamlit.app
 
 ---
 ## 🚀 Installation
